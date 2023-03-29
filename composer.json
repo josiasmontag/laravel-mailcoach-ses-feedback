@@ -14,12 +14,6 @@
             "role": "Developer"
         }
     ],
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://satis.spatie.be"
-        }
-    ],
     "require": {
         "ext-json": "*",
         "php": "^8.0",
